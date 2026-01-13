@@ -1,0 +1,5 @@
+[2026-01-14 05:49:08] [INFO] ========================================
+[2026-01-14 05:49:08] [INFO] Monthly Maintenance Task Started
+[2026-01-14 05:49:08] [INFO] ========================================
+[2026-01-14 05:49:08] [WARNING] Current date is 14 - outside first week window (1-7)
+[2026-01-14 05:49:08] [INFO] Task will retry tomorrow if in valid date range
